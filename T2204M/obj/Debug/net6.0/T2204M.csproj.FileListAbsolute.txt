@@ -1,0 +1,15 @@
+F:\T2204M\T2204M\T2204M\bin\Debug\net6.0\T2204M.exe
+F:\T2204M\T2204M\T2204M\bin\Debug\net6.0\T2204M.deps.json
+F:\T2204M\T2204M\T2204M\bin\Debug\net6.0\T2204M.runtimeconfig.json
+F:\T2204M\T2204M\T2204M\bin\Debug\net6.0\T2204M.dll
+F:\T2204M\T2204M\T2204M\bin\Debug\net6.0\T2204M.pdb
+F:\T2204M\T2204M\T2204M\obj\Debug\net6.0\T2204M.csproj.AssemblyReference.cache
+F:\T2204M\T2204M\T2204M\obj\Debug\net6.0\T2204M.GeneratedMSBuildEditorConfig.editorconfig
+F:\T2204M\T2204M\T2204M\obj\Debug\net6.0\T2204M.AssemblyInfoInputs.cache
+F:\T2204M\T2204M\T2204M\obj\Debug\net6.0\T2204M.AssemblyInfo.cs
+F:\T2204M\T2204M\T2204M\obj\Debug\net6.0\T2204M.csproj.CoreCompileInputs.cache
+F:\T2204M\T2204M\T2204M\obj\Debug\net6.0\T2204M.dll
+F:\T2204M\T2204M\T2204M\obj\Debug\net6.0\refint\T2204M.dll
+F:\T2204M\T2204M\T2204M\obj\Debug\net6.0\T2204M.pdb
+F:\T2204M\T2204M\T2204M\obj\Debug\net6.0\T2204M.genruntimeconfig.cache
+F:\T2204M\T2204M\T2204M\obj\Debug\net6.0\ref\T2204M.dll
