@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace T2204M.session1
 {
-    internal class Human
+    public class Human
     {
+        public string name;
+        public int age;
+
+        public void Eat()
+        {
+            Console.WriteLine("Eating...");
+        }
+        public void Run
+
     }
 }

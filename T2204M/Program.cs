@@ -1,4 +1,7 @@
-﻿public class  Program
+﻿
+using T2204M.session1;
+
+public class  Program
 {
     public static void Main(string[] args)
     {
@@ -25,6 +28,10 @@
 
         int num = Convert.ToInt32(input);
         Console.WriteLine("num=" + num);
+
+        Human h = new Human();
+        h.name = "nguyen van an";
+        h.Run();
 
     }
 }
