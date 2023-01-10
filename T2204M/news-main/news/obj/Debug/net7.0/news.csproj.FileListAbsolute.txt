@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\news\news\obj\Debug\net7.0\news.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\news\news\obj\Debug\net7.0\news.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\news\news\obj\Debug\net7.0\news.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\news\news\obj\Debug\net7.0\news.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\news\news\obj\Debug\net7.0\news.csproj.CoreCompileInputs.cache
